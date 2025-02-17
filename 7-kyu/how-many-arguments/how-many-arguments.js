@@ -1,3 +1,3 @@
-const args_count = (...args) => {
-  return [...args].length;
+const args_count = (args) => {
+  return args.length;
 }
