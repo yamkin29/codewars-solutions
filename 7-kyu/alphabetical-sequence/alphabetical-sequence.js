@@ -8,4 +8,4 @@ function alphaSeq (str) {
   })
   
   return result.sort().join(',');
-} 
+}
