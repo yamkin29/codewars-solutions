@@ -6,4 +6,3 @@ function pillow(s) {
   }
   return false;
 }
-​

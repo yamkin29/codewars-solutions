@@ -11,7 +11,7 @@ function switcher(x){
     } else {
       result.push(String.fromCharCode(123 - item))
     }
-  })
+  });
   
   return result.join('');
 }
